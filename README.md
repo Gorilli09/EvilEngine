@@ -5,6 +5,6 @@ A decompilation project of EvilEngine.
 * Evil Dead: Hail to the King
 * Scooby-Doo!: Night of 100 Frights
 * SpongeBob SquarePants: Battle for Bikini Bottom
-* The Incredibles
 * The SpongeBob SquarePants Movie
+* The Incredibles
 * The Incredibles: Rise of the Underminer
